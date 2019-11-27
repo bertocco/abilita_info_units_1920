@@ -1,0 +1,50 @@
+﻿ISTRUZIONI PER I RECUPERI
+
+E` possibile perdere e recuperare fino ad un massimo di 3 seminari.
+
+Chi ha perso uno o più seminari, fino a 3, può recuperare in due passi:
+
+1. studiando le slide dei seminari (disponibili in: 
+https://github.com/bertocco/abilita_info_units_1920) 
+ed eseguendo gli esercizi proposti nelle slide
+
+PIU`
+
+2. svolgendo per ciascuno dei seminari gli esercizi proposti 
+nei file disponibili nel repositorio github:
+	bash_1_recupero.txt
+	bash_2_recupero.txt
+	bash_3_recupero.txt
+	python_1_recupero.txt
+	python_2_recupero.txt
+	python_3_recupero.txt
+e mandando gli script contenenti le soluzioni,
+in formato testo ed eseguibili, alla docente all'e-mail:
+sara ‘dot’ bertocco ‘at’ inaf ‘dot’ it
+
+La verifica della correttezza delle soluzioni consisterà in 
+una revisione sommaria degli script più l'esecuzione
+degli script stessi.
+
+
+RECOVERY INSTRUCTIONS
+
+Students can be absent and recover up to 3 lessons.
+
+Who has not be present to one or more than 3 seminars (up to 3) can recover in two steps:
+
+1. studying the slides of the seminars available on a github repository:
+ https://github.com/bertocco/abilita_info_units_1920
+and practicing with exercises proposed in the slides
+
+2. carryng out, for each seminar, the exercises in the files (again available in the github repository):
+	bash_1_recupero.txt
+	bash_2_recupero.txt
+	bash_3_recupero.txt
+	python_1_recupero.txt
+	python_2_recupero.txt
+	python_3_recupero.txt
+and sending solutions (executable scrips in text format) to the teacher by e-mail:
+sara ‘dot’ bertocco ‘at’ inaf ‘dot’ it
+
+The correctness verification of the proposed solutions will consist in a brief check of the proposed solutions and in running the scripts.

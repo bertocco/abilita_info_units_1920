@@ -1,0 +1,35 @@
+Exercise 1
+
+Write commands to:
+
+create a folder testFolder
+
+create two empty files fileTest1 and fileTest2
+
+create two files fileTest1 and fileTest2 in folder testFolder
+
+copy fileTest1 in fileTest3
+
+copy fileTest1 in fileTest3  in folder testFolder
+
+rename fileTest1 filePippo1
+
+list the content of current folder
+
+list the content of folder testFolder
+
+create the folder testFolder/try/create/more/thanOne
+
+remove file fileTest2 in testFolder
+
+create in testFolder a symbolic/soft link to filePippo1
+
+create in testFolder a hard link to filePippo1
+
+remove filePippo1
+
+display the content of two links (symbolic and hard) newly created
+
+give read,write,execute permissions to file fileTest3 in testFolder
+
+remove recursively testFolder
