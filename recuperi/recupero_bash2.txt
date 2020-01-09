@@ -1,0 +1,12 @@
+Exercise 1
+Set an environment variable
+OFFSET with value 5
+
+Write a bash script to 
+- read by row the provided data file (data.txt), jumping comments, and write the values in a log file with name depending by the OFFSET value and the current date
+- count the number of rows in the file
+
+Exercise 1
+
+Try to find a file in your file system, using the find command, redirect the standard error in a log file and the standard output both in an output file and in the standard output
+
