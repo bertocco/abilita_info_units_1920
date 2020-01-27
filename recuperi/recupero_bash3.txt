@@ -1,0 +1,19 @@
+Exercise 1
+
+Check in the github repository of the seminars material 
+(https://github.com/bertocco/abilita_info_units_1920)
+the script infinite_loop_noout.sh, 
+write a similar infinite loop printing something both to to the standard output and to a file log.txt  
+Make the script executable if needed, execute it in background, recall it in foreground, stop it 
+Write the command used.
+
+Exercise 2
+
+Set an environment variable OFFSET with value 5
+Write a bash script to
+- read by row the data.txt file (available in the current directory), skipping comments 
+- write the values in a log file with name depending by the OFFSET value (e.g. output_5.txt)
+- count the number of years data available in the file
+- find in the file the maximum rain value in all the sequence and write it in an output file
+with the corresponding year
+
